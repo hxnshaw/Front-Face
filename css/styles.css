@@ -1,0 +1,81 @@
+body{
+    background-color: #004445;
+    color: #f8b400;
+
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 6.5rem;
+    
+    
+}
+h2{
+    font-family: 'Staatliches', cursive;
+    font-size: 2.8rem;
+}
+
+h4{
+    font-family: 'Staatliches', cursive;
+    font-size: 2.5rem;
+}
+
+h5{
+    font-family: 'Staatliches', cursive;
+    font-size: 1.0rem;
+}
+
+
+.heading{
+    margin: 100px 800px 500px 50px ;
+    padding: 0;
+    text-align: left;
+    
+}
+/* Name Brand*/
+.name{
+   display: inline-block;
+    margin: 0px 700px;
+    text-align: center;
+
+}
+
+.nav-item{
+    padding: 30px;
+}
+
+.top-bar{
+    margin: 0;
+}
+
+/* Elements on the right*/
+
+.second{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 350px;
+}
+
+/* Buy Now Button*/
+.dollars{
+    font-weight: bold;
+}
+
+.buy{
+    font-weight: bold;
+}
+
+/* Footer Icons*/
+.footer{
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+.last{
+    padding: 30px;
+    text-align: center;
+    
+}
+
